@@ -190,7 +190,7 @@ note: A templated component may have multiple `RenderFragment` parameters, what 
 
 At this point it should be possible to run the code and see that the new dialog works correctly. Verify that this is working correctly before moving on to the next step.
 
-## A more advanced templated component
+## A more advanced templated component  [here]
 
 Now that we've done a basic templated dialog, we're going to try something more sophisticated. Recall that the `MyOrders.razor` page has shows a list of orders, but it also contains three-state logic (loading, empty list, and showing items). If we could extract that logic into a reusable component, would that be useful? Let's give it a try.
 
